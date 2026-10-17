@@ -192,7 +192,7 @@ function App() {
               <span>{opened.length} of {messages.length} little discoveries</span>
               <button className="text-button" onClick={() => setShowLetter(true)}>A note for you <Mail size={15} /></button>
             </div>
-            <button className="chaos-button" onClick={() => openStory("rat")}>Psst… a little chaos <span>🐭</span></button>
+            <button className="chaos-button" onClick={() => openStory("rat")}>Psst… a little chaos for amul<span>🐭</span></button>
           </motion.section>
         )}
       </AnimatePresence>
