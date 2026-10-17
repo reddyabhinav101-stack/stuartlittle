@@ -233,11 +233,11 @@ function App() {
               <div className="letter-decoration">✦ &nbsp; ♡ &nbsp; ✦</div>
               <div className="eyebrow">A LITTLE NOTE BACK</div>
               <h2>For my favorite little chaos.</h2>
-              <p>Hey you,</p>
+              <p>Hey you 🌻,</p>
               <p>Your letter made me smile so much. I wanted to make you something too, something that felt like me but had little pieces of you in it.</p>
-              <p>Space has always been my thing, so I thought I'd let you have a little look around my universe. I added Shinchan and rats because I remember you talking about them, and they made me think of you. They're just a couple of little details I've held on to, not the whole story of who you are.</p>
-              <p>And somehow, the watermelon sunscreen became our thing too. It made me happy that you remembered the one I use. It's such a small thing, but it felt really thoughtful.</p>
-              <p>I don't know what the universe has planned, but I'm really glad I got to know you. Thank you for being thoughtful with me, too.</p>
+              <p>You'll find a few silly things in here too, hehe. Some might make you laugh, some might make you roll your eyes at me. And yes, next time I'll try harder to guess the songs from the opening music, okay? 😂</p>
+              <p>I don't know what the universe has planned, and I don't think we need to figure it all out right now. I'm just really glad our paths crossed and that I got the chance to know you a little more.</p>
+              <p>Thank you for your letter and for being so thoughtful with me. I hope this little universe makes you smile the way your gift made me smile. </p>
               <p className="letter-signoff">,  Abhi <span>♡</span></p>
               <button className="primary-button letter-finish" onClick={() => { setShowLetter(false); setShowFinal(true); }}>One last little surprise <Sparkles size={16} /></button>
             </motion.section>
